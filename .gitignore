@@ -1,0 +1,9 @@
+# Python & Sistem
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+
+# Geçici Dosyalar
+*.log

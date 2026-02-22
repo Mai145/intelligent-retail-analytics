@@ -1,0 +1,17 @@
+# Core Computer Vision
+ultralytics                # YOLOv8/v9/v11 (Face & Demographic Detection) [cite: 13]
+opencv-python              # Görüntü işleme [cite: 55]
+deep-sort-realtime         # Kişi takibi (Re-ID) [cite: 16]
+
+# Machine Learning & Data
+torch                      # Deep Learning backend [cite: 55]
+torchvision
+pandas                     # Davranış analizi ve gürültü filtreleme [cite: 36]
+numpy                      # İstatistiksel hesaplamalar
+
+# Privacy & Security
+hashlib                    # SHA-256 Hashing (KVKK uyumu için) [cite: 29]
+
+# Automation & Interface
+python-dotenv              # API ve gizli ayarlar için
+flask                      # (Opsiyonel) Dashboard veya API katmanı için
